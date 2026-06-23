@@ -61,7 +61,7 @@ PPT Files
 ### LLM
 
 * Groq
-* openai/gpt-oss-120b
+* openai/gpt-oss-120b and llama-3.3-70b-versatile 
 
 ### Frontend
 

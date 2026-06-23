@@ -5,9 +5,7 @@ from src.chains.presentation_chain import (
     PresentationChain
 )
 
-# ---------------------------------
-# Streamlit Config
-# ---------------------------------
+
 
 st.set_page_config(
     page_title="AutoDeck AI",
